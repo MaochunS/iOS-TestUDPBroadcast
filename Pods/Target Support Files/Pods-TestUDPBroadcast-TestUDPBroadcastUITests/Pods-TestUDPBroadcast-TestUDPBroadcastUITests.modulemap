@@ -1,0 +1,6 @@
+framework module Pods_TestUDPBroadcast_TestUDPBroadcastUITests {
+  umbrella header "Pods-TestUDPBroadcast-TestUDPBroadcastUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
